@@ -1,10 +1,9 @@
 
 # ¡Hola, Soy Abel Montiel Aguilar! 👋
+
 <p align="center">
   <img src="https://media.licdn.com/dms/image/C4E12AQHVBEYIxeVMVQ/article-cover_image-shrink_423_752/0/1579555832887?e=1709164800&v=beta&t=ZAz7okdaBvOLHA-VWU8-_pPWvEH85j9-NtxHnhGsyMA" alt="Perfil">
 </p>
-
-
 ## Sobre mí
 Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbanístico e inmobiliario, decidí cambiar la toga por los dataframe y me convertí en un apasionado Data Science Junior.
 
@@ -87,7 +86,9 @@ Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbaní
 ## Explorando
 Recientemente interesado en [menciona algún tema emergente o área de investigación en la que estés sumergido]
 
-![](https://www.shutterstock.com/image-vector/data-science-icon-monochrome-style-600nw-1184262358.jpg)
+<p align="center">
+  <img src="https://www.shutterstock.com/image-vector/data-science-icon-monochrome-style-600nw-1184262358.jpg" alt="Data Science Icon">
+</p>
 ## Repositorios
 | #   | Proyecto                                      | Enlace                                                   |
 | --- | --------------------------------------------- | -------------------------------------------------------- |
@@ -130,9 +131,13 @@ Recientemente interesado en [menciona algún tema emergente o área de investiga
 
 
 ## Conéctate conmigo
-- LinkedIn: [https://www.linkedin.com/in/abel-montiel-aguilar-4578b7119/
-- Email: abelmontielaguilar@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abel-montiel-aguilar-4578b7119/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:abelmontielaguilar@gmail.com)
+
 
 ¡Siempre estoy abierto a conectar con colegas apasionados por la tecnología y compartir ideas!
 
-![](https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif)
+<p align="center">
+  <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" alt="Hello Penguins">
+</p>
+

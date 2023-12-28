@@ -134,7 +134,6 @@ Recientemente interesado en [menciona algún tema emergente o área de investiga
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abel-montiel-aguilar-4578b7119/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:abelmontielaguilar@gmail.com)
 
-
 ¡Siempre estoy abierto a conectar con colegas apasionados por la tecnología y compartir ideas!
 
 <p align="center">

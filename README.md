@@ -1,7 +1,9 @@
 
 # ¡Hola, Soy Abel Montiel Aguilar! 👋
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C4E12AQHVBEYIxeVMVQ/article-cover_image-shrink_423_752/0/1579555832887?e=1709164800&v=beta&t=ZAz7okdaBvOLHA-VWU8-_pPWvEH85j9-NtxHnhGsyMA" alt="Perfil">
+</p>
 
-![](https://media.licdn.com/dms/image/C4E12AQHVBEYIxeVMVQ/article-cover_image-shrink_423_752/0/1579555832887?e=1709164800&v=beta&t=ZAz7okdaBvOLHA-VWU8-_pPWvEH85j9-NtxHnhGsyMA)
 
 ## Sobre mí
 Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbanístico e inmobiliario, decidí cambiar la toga por los dataframe y me convertí en un apasionado Data Science Junior.

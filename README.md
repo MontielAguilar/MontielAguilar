@@ -63,32 +63,27 @@ Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbaní
   - Virtualización: VirtualBox
   - Anaconda
   - Jupyter
- - SQL y bases de datos relacionales (MySQL, PostgreSQL)
- - Virtual Studio Code
+  - SQL y bases de datos relacionales (MySQL, PostgreSQL)
+  - Virtual Studio Code
   - Machine Learning: Scikit-learn, TensorFlow, PyTorch
   - Procesamiento de Lenguaje Natural (NLP): NLTK, SpaCy
+  - -Big Data: Apache Spark
 
 - **Herramientas y Tecnologías en Desarrollo:**
   - Testing: pytest, Selenium
   - NoSQL databases (MongoDB, Cassandra)
-  - Frameworks web (Flask, Django)
-  - DevOps: Ansible, Terraform
-  - Desarrollo móvil: React Native, Flutter
-  - IoT: Raspberry Pi, Arduino
-  - Redes: TCP/IP, DNS, HTTP/HTTPS
-  - Seguridad: SSL/TLS, VPN, Firewalls
- - Front-end: HTML, CSS, JavaScript, React
-  - Automatización: Docker, Kubernetes
   - Cloud Computing: AWS, Google Cloud Platform (GCP), Microsoft Azure
-  - Big Data: Apache Hadoop, Apache Spark
-  - CI/CD: Jenkins, Travis CI
+  - Big Data: Apache Hadoop
 
 ## Explorando
-Recientemente interesado en [menciona algún tema emergente o área de investigación en la que estés sumergido]
+Recientemente interesado en:
+- Inteligencia Artificial Explicable (XAI)
+- Aprendizaje Federado
+- Ética en la Ciencia de Datos
+- Procesamiento de Lenguaje Natural (PNL) Avanzado
+- Automatización del Ciclo de Vida de la Ciencia de Datos
+- Intersección entre Ciencia de Datos y Sostenibilidad
 
-<p align="center">
-  <img src="https://www.shutterstock.com/image-vector/data-science-icon-monochrome-style-600nw-1184262358.jpg" alt="Data Science Icon">
-</p>
 ## Repositorios
 | #   | Proyecto                                      | Enlace                                                   |
 | --- | --------------------------------------------- | -------------------------------------------------------- |

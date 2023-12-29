@@ -88,7 +88,7 @@ Recientemente interesado en:
 | #   | Proyecto                                      | Enlace                                                   |
 | --- | --------------------------------------------- | -------------------------------------------------------- |
 | 1   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 2   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 2   | Calculus & Algebrra                                    | [accede](https://github.com/MontielAguilar/2-Calculus-and-algebra-problems-with-python"accede") |
 | 3   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 4   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 5   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

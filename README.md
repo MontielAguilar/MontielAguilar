@@ -89,7 +89,7 @@ Recientemente interesado en:
 | --- | --------------------------------------------- | -------------------------------------------------------- |
 | 1   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 2   | Calculus & Algebra                                    | [accede](https://github.com/MontielAguilar/2-Calculus-and-algebra-problems-with-python "accede") |
-| 3   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 3   | Probability with Python                                    | [accede](https://github.com/MontielAguilar/3-Probability-exercises-project-in-python "accede") |
 | 4   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 5   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 6   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

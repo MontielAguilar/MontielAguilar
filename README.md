@@ -91,7 +91,7 @@ Recientemente interesado en:
 | 2   | Calculus & Algebra                                    | [accede](https://github.com/MontielAguilar/2-Calculus-and-algebra-problems-with-python "accede") |
 | 3   | Probability with Python                                    | [accede](https://github.com/MontielAguilar/3-Probability-exercises-project-in-python "accede") |
 | 4   | Descriptive stadistics                                    | [accede](https://github.com/MontielAguilar/4-descriptive-statistics-exercises-project-with-python "accede") |
-| 5   | Probability distribution                                    | [accede](5-probability-distribution-exercises-project-with-python "accede") |
+| 5   | Probability distribution                                    | [accede](https://github.com/MontielAguilar/5-probability-distribution-exercises-project-with-python "accede") |
 | 6   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 7   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 8   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

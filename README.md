@@ -93,7 +93,7 @@ Recientemente interesado en:
 | 4   | Descriptive stadistics                                    | [accede](https://github.com/MontielAguilar/4-descriptive-statistics-exercises-project-with-python "accede") |
 | 5   | Probability distribution                                    | [accede](https://github.com/MontielAguilar/5-probability-distribution-exercises-project-with-python "accede") |
 | 6   | Hipotesis testing                                    | [accede](https://github.com/MontielAguilar/6-hypothesis-testing-exercises-project-with-python "accede") |
-| 7   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 7   | Algorithm optimization                                    | [accede](https://github.com/MontielAguilar/7-algorithm-optimization-project-machine-learning "accede") |
 | 8   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 9   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 10  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

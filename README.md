@@ -95,7 +95,7 @@ Recientemente interesado en:
 | 6   | Hipotesis testing                                    | [accede](https://github.com/MontielAguilar/6-hypothesis-testing-exercises-project-with-python "accede") |
 | 7   | Algorithm optimization                                    | [accede](https://github.com/MontielAguilar/7-algorithm-optimization-project-machine-learning "accede") |
 | 8   | SQL Data base                                    | [accede](https://github.com/MontielAguilar/8-connecting-to-a-sql-database-project-tutorial/tree/main "accede") |
-| 9   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 9   | Web Scraping                                    | [accede](https://github.com/MontielAguilar/9-web-scraping-project-tutorial/tree/main "accede") |
 | 10  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 
 | #   | Proyecto                                      | Enlace                                                   |

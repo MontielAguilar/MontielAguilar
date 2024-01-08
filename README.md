@@ -2,7 +2,7 @@
 # ¡Hola, Soy Abel Montiel Aguilar! 👋
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1G1Fk3N2yKtN4fcJ6tM6spmOM1V2JMadV/view?usp=sharing">
+  <img src="https://wallpapercave.com/wp/wp4748439.jpg" alt="Banner">
 </p>
 ## Sobre mí
 Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbanístico e inmobiliario, decidí cambiar la toga por los dataframe y me convertí en un apasionado Data Science Junior.
@@ -96,7 +96,7 @@ Recientemente interesado en:
 | 7   | Algorithm optimization                                    | [accede](https://github.com/MontielAguilar/7-algorithm-optimization-project-machine-learning "accede") |
 | 8   | SQL Data base                                    | [accede](https://github.com/MontielAguilar/8-connecting-to-a-sql-database-project-tutorial/tree/main "accede") |
 | 9   | Web Scraping                                    | [accede](https://github.com/MontielAguilar/9-web-scraping-project-tutorial/tree/main "accede") |
-| 10  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 10  | Api python                                    | [accede](https://github.com/MontielAguilar/10-interacting-with-api-python-project-tutorial "accede") |
 
 | #   | Proyecto                                      | Enlace                                                   |
 | --- | --------------------------------------------- | -------------------------------------------------------- |

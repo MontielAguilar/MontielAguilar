@@ -97,10 +97,7 @@ Recientemente interesado en:
 | 8   | SQL Data base                                    | [accede](https://github.com/MontielAguilar/8-connecting-to-a-sql-database-project-tutorial/tree/main "accede") |
 | 9   | Web Scraping                                    | [accede](https://github.com/MontielAguilar/9-web-scraping-project-tutorial/tree/main "accede") |
 | 10  | Api python                                    | [accede](https://github.com/MontielAguilar/10-interacting-with-api-python-project-tutorial "accede") |
-
-| #   | Proyecto                                      | Enlace                                                   |
-| --- | --------------------------------------------- | -------------------------------------------------------- |
-| 11  | First EDA                                    | [accede](https://github.com/MontielAguilar/11-machine-learning-python-template"accede") |
+| 11  | First EDA                                    | [accede](https://github.com/MontielAguilar/11-machine-learning-python-template "accede") |
 | 12  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 13  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 14  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

@@ -100,7 +100,7 @@ Recientemente interesado en:
 
 | #   | Proyecto                                      | Enlace                                                   |
 | --- | --------------------------------------------- | -------------------------------------------------------- |
-| 11  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 11  | First EDA                                    | [accede](https://github.com/MontielAguilar/11-machine-learning-python-template"accede") |
 | 12  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 13  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 14  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
@@ -110,9 +110,6 @@ Recientemente interesado en:
 | 18  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 19  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 20  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-
-| #   | Proyecto                                      | Enlace                                                   |
-| --- | --------------------------------------------- | -------------------------------------------------------- |
 | 21  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 22  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 23  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

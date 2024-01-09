@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp4748439.jpg" alt="Banner">
 </p>
+
 ## Sobre mí
 Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbanístico e inmobiliario, decidí cambiar la toga por los dataframe y me convertí en un apasionado Data Science Junior.
 

@@ -33,12 +33,13 @@ Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbaní
 - Curso Data Analyst y Ciencia de datos (CoderHouse)
 
 ### Ciencia de datos
+- 📚 Curso Data Analyst (CoderHouse) (12-2023)
 - 📚 Base de datos avanzadas (12-2023)
 - 📚 Inteligencia artificial aplicada a la empresa (11-2023)
 - 📚 Aspectos básicos de datos (11-2023)
+- 📚 Machine Learning Engineering (4Geeks Academy) (11-2023)
 - 📚 Big data y business intelligence (10-2023)
-- 📚 Machine Learning Engineering (11-2023)
-
+- 
 ### Formación jurídica y desarrrrollo personal
 - 🧘 Profesor de yoga (06-2022)
 - 🚺 Violencia de Género (06-2021)

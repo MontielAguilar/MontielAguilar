@@ -99,7 +99,7 @@ Recientemente interesado en:
 | 9   | Web Scraping                                    | [accede](https://github.com/MontielAguilar/9-web-scraping-project-tutorial/tree/main "accede") |
 | 10  | Api python                                    | [accede](https://github.com/MontielAguilar/10-interacting-with-api-python-project-tutorial "accede") |
 | 11  | First EDA                                    | [accede](https://github.com/MontielAguilar/11-machine-learning-python-template "accede") |
-| 12  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 12  | Lineal Regression                                    | [accede](https://github.com/MontielAguilar/12-Lineal-Regression "accede") |
 | 13  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 14  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 15  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

@@ -101,7 +101,7 @@ Recientemente interesado en:
 | 10  | Api python                                    | [accede](https://github.com/MontielAguilar/10-interacting-with-api-python-project-tutorial "accede") |
 | 11  | First EDA                                    | [accede](https://github.com/MontielAguilar/11-machine-learning-python-template "accede") |
 | 12  | Lineal Regression                                    | [accede](https://github.com/MontielAguilar/12-Lineal-Regression "accede") |
-| 13  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 13  | Regularize L.Regression                                    | [accede](https://github.com/MontielAguilar/13-Regularize-lineal-regression "accede") |
 | 14  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 15  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 16  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

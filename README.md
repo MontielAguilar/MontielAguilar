@@ -102,7 +102,7 @@ Recientemente interesado en:
 | 11  | First EDA                                    | [accede](https://github.com/MontielAguilar/11-machine-learning-python-template "accede") |
 | 12  | Lineal Regression                                    | [accede](https://github.com/MontielAguilar/12-Lineal-Regression "accede") |
 | 13  | Regularize L.Regression                                    | [accede](https://github.com/MontielAguilar/13-Regularize-lineal-regression "accede") |
-| 14  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 14  | Decision Tree                                    | [accede](https://github.com/MontielAguilar/14-decision-trees "accede") |
 | 15  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 16  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 17  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

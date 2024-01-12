@@ -28,7 +28,7 @@ Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbaní
 
 ## Educación y Certificaciones
 
-###Cursando actualmente con fin de seguir mejorando: 
+### Cursando actualmente con fin de seguir mejorando: 
 - Master experto en Python (Grupo Atrium)
 - Master en Ciencia de Datos I / II/ III (CoderHouse)
 

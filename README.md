@@ -28,9 +28,9 @@ Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbaní
 
 ## Educación y Certificaciones
 
-###Cursando actualmente: 
+###Cursando actualmente con fin de seguir mejorando: 
 - Master experto en Python (Grupo Atrium)
-- Curso Data Analyst y Ciencia de datos (CoderHouse)
+- Master en Ciencia de Datos I / II/ III (CoderHouse)
 
 ### Ciencia de datos
 - 📚 Curso Data Analyst (CoderHouse) (12-2023)

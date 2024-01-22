@@ -22,12 +22,12 @@ Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbaní
 - Procesamiento de Lenguaje Natural (NLP) y procesamiento de imágenes (En desarrolllo)
 - Herramientas de versionado: Git
 ## Experiencia IT:
-###Actualmente
+### Actualmente
 - Teacher Assistant en Bootcamp 4Geek Academy 
 - Cientifico de datos en 2kids 
 
 ## Educación y Certificaciones
-
+| 0  | Access my Titles                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 ### Cursando actualmente con fin de seguir mejorando: 
 - Master experto en Python (Grupo Atrium)
 - Master en Ciencia de Datos I / II/ III (CoderHouse)

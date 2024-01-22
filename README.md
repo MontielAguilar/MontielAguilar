@@ -27,7 +27,7 @@ Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbaní
 - Cientifico de datos en 2kids 
 
 ## Educación y Certificaciones
-| 0  | Access my Titles                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 0  | Access my Titles                                    | [accede](https://github.com/MontielAguilar/0-Tittles "Access") |
 ### Cursando actualmente con fin de seguir mejorando: 
 - Master experto en Python (Grupo Atrium)
 - Master en Ciencia de Datos I / II/ III (CoderHouse)

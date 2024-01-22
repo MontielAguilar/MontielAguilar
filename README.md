@@ -111,7 +111,7 @@ Recientemente interesado en:
 | 20  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 21  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 22  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 23  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 23  | Rel State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 24  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 25  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 26  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

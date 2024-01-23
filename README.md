@@ -106,7 +106,7 @@ Recientemente interesado en:
 | 15  | XGboost                                    | [accede](https://github.com/MontielAguilar/15-XGBoost--Extreme-Gradient-Boosting- "accede") |
 | 16  | Multi-Model                                    | [accede](https://github.com/MontielAguilar/Multi-models "accede") |
 | 17  | K-Nearest-Neighbors                                    | [accede](https://github.com/MontielAguilar/17-K-Nearest-Neighbors "accede") |
-| 18  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
+| 18  | Clustering-Basic                                    | [accede](https://github.com/MontielAguilar/18-Clustering-basic "accede") |
 | 19  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 20  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 21  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

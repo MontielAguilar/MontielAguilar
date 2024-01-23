@@ -7,7 +7,7 @@
 
 ## Sobre mí
 Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbanístico e inmobiliario, decidí cambiar la toga por los dataframe y me convertí en un apasionado Data Science Junior.
-
+.
 ## Mis Conocimientos
 - Análisis de datos
 - Machine Learning

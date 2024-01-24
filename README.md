@@ -107,7 +107,7 @@ Recientemente interesado en:
 | 16  | Multi-Model                                    | [accede](https://github.com/MontielAguilar/Multi-models "accede") |
 | 17  | K-Nearest-Neighbors                                    | [accede](https://github.com/MontielAguilar/17-K-Nearest-Neighbors "accede") |
 | 18  | Clustering-Basic                                    | [accede](https://github.com/MontielAguilar/18-Clustering-basic "accede") |
-| 19  | Temporal Series                                    | [accede]https://github.com/MontielAguilar/19-temporal-Series-Arima "accede") |
+| 19  | Temporal Series                                    | [accede](https://github.com/MontielAguilar/19-temporal-Series-Arima "accede") |
 | 20  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 21  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 22  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

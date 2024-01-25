@@ -108,7 +108,7 @@ Recientemente interesado en:
 | 17  | K-Nearest-Neighbors                                    | [accede](https://github.com/MontielAguilar/17-K-Nearest-Neighbors "accede") |
 | 18  | Clustering-Basic                                    | [accede](https://github.com/MontielAguilar/18-Clustering-basic "accede") |
 | 19  | Temporal Series                                    | [accede](https://github.com/MontielAguilar/19-temporal-Series-Arima "accede") |
-| 20  | Deep Image Classifier                                    | [accede](https://github.com/MontielAguilar/20-Deep-Image-Classifier"accede") |
+| 20  | Deep Image Classifier                                    | [accede](https://github.com/MontielAguilar/20-Deep-Image-Classifier "accede") |
 | 21  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 22  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 | 23  | Rel State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |

@@ -124,37 +124,6 @@ Recientemente interesado en:
 | 29  | Real State                                       | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise) |
 | 30  | Real State                                       | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise) |
 
-| --- | --------------------------------------------- | -------------------------------------------------------- |
-| 1   | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 2   | Calculus & Algebra                                    | [accede](https://github.com/MontielAguilar/2-Calculus-and-algebra-problems-with-python "accede") |
-| 3   | Probability with Python                                    | [accede](https://github.com/MontielAguilar/3-Probability-exercises-project-in-python "accede") |
-| 4   | Descriptive stadistics                                    | [accede](https://github.com/MontielAguilar/4-descriptive-statistics-exercises-project-with-python "accede") |
-| 5   | Probability distribution                                    | [accede](https://github.com/MontielAguilar/5-probability-distribution-exercises-project-with-python "accede") |
-| 6   | Hipotesis testing                                    | [accede](https://github.com/MontielAguilar/6-hypothesis-testing-exercises-project-with-python "accede") |
-| 7   | Algorithm optimization                                    | [accede](https://github.com/MontielAguilar/7-algorithm-optimization-project-machine-learning "accede") |
-| 8   | SQL Data base                                    | [accede](https://github.com/MontielAguilar/8-connecting-to-a-sql-database-project-tutorial/tree/main "accede") |
-| 9   | Web Scraping                                    | [accede](https://github.com/MontielAguilar/9-web-scraping-project-tutorial/tree/main "accede") |
-| 10  | Api python                                    | [accede](https://github.com/MontielAguilar/10-interacting-with-api-python-project-tutorial "accede") |
-| 11  | First EDA                                    | [accede](https://github.com/MontielAguilar/11-machine-learning-python-template "accede") |
-| 12  | Lineal Regression                                    | [accede](https://github.com/MontielAguilar/12-Lineal-Regression "accede") |
-| 13  | Regularize L.Regression                                    | [accede](https://github.com/MontielAguilar/13-Regularize-lineal-regression "accede") |
-| 14  | Decision Tree                                    | [accede](https://github.com/MontielAguilar/14-decision-trees "accede") |
-| 15  | XGboost                                    | [accede](https://github.com/MontielAguilar/15-XGBoost--Extreme-Gradient-Boosting- "accede") |
-| 16  | Multi-Model                                    | [accede](https://github.com/MontielAguilar/Multi-models "accede") |
-| 17  | K-Nearest-Neighbors                                    | [accede](https://github.com/MontielAguilar/17-K-Nearest-Neighbors "accede") |
-| 18  | Clustering-Basic                                    | [accede](https://github.com/MontielAguilar/18-Clustering-basic "accede") |
-| 19  | Temporal Series                                    | [accede](https://github.com/MontielAguilar/19-temporal-Series-Arima "accede") |
-| 20  | Deep Image Classifier                                    | [accede](https://github.com/MontielAguilar/20-Deep-Image-Classifier "accede") |
-| 21  | NLP                                    | [accede](https://github.com/MontielAguilar/21-NLP "accede") |
-| 22  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 23  | Rel State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 24  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 25  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 26  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 27  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 28  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 29  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
-| 30  | Real State                                    | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise "accede") |
 
 
 ## Conéctate conmigo

@@ -87,6 +87,10 @@ Recientemente interesado en:
 - Intersección entre Ciencia de Datos y Sostenibilidad
 
 ## Repositorios
+<p align="center">
+  <img src="[https://wallpapercave.com/wp/wp4748439.jpg" alt="Banner](https://4geeksacademy.com/static/dc42e38caa9db517ddea28bea5e40d02/e6a88/4geeksacademy-logo.png)">
+</p>
+
 | #   | Proyect 4 Geek Academy                                      | Link                                                   |
 
 ## Repositorios

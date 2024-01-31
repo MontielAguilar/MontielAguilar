@@ -90,6 +90,7 @@ Recientemente interesado en:
 <p align="center">
   <img src="https://4geeksacademy.com/static/dc42e38caa9db517ddea28bea5e40d02/e6a88/4geeksacademy-logo.png">
 </p>
+
 ## Repositorios
 
 | #   | Proyecto 4 Geek Academy                           | Enlace                                                  |
@@ -128,13 +129,27 @@ Recientemente interesado en:
 <p align="center">
   <img src="https://comparte-entity-photos.s3.us-east-2.amazonaws.com/39144702-7af9-45a6-8e18-3eb28648fa8a.png">
 </p>
+
 ## Repositorios
 
-| #   | Proyectos CoderHouse                         | Enlace                                                  |
+| #   | Proyectos CoderHouse: Master Data Analytics y Ciencia de Datos                        | Enlace                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
 | 1   | PowerBi                                       | [accede](https://) |
 | 2   | Uploading                               | [accede](https://) |
 | 3   | Uploading                          | [accede](https://) |
+
+<p align="center">
+  <img src="https://www.grupoatrium.com/wp-content/uploads/2018/12/logo-grupo-atrium250.png">
+</p>
+
+## Repositorios
+
+| #   | Proyectos Grupo Atrium: Master en Python                        | Enlace                                                  |
+| --- | ---------------------------------------------    | -------------------------------------------------------- |
+| 1   | Uploading                                       | [accede](https://) |
+| 2   | Uploading                               | [accede](https://) |
+| 3   | Uploading                          | [accede](https://) |
+
 ## Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abel-montiel-aguilar-4578b7119/)
 

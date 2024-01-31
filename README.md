@@ -2,7 +2,7 @@
 # ¡Hola, Soy Abel Montiel Aguilar! 👋
  
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp4748439.jpg" alt="Banner" style="border-radius: 50%;">>
+  <img src="https://wallpapercave.com/wp/wp4748439.jpg" alt="Banner" style="border-radius: 50%;">
 </p>
 
 ## Sobre mí
@@ -88,7 +88,7 @@ Recientemente interesado en:
 
 ## Repositorios
 <p align="center">
-  <img src="https://www.gitpod.io/images/education/4geeks/4geeks-logo.png"style="border-radius: 50%;">>
+  <img src="https://www.gitpod.io/images/education/4geeks/4geeks-logo.png"style="border-radius: 50%;">
 </p>
 
 ## Repositorios
@@ -127,7 +127,7 @@ Recientemente interesado en:
 | 30  | Uploading                                       | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise) |
 
 <p align="center">
-  <img src="https://comparte-entity-photos.s3.us-east-2.amazonaws.com/39144702-7af9-45a6-8e18-3eb28648fa8a.png"style="border-radius: 50%;">>
+  <img src="https://comparte-entity-photos.s3.us-east-2.amazonaws.com/39144702-7af9-45a6-8e18-3eb28648fa8a.png"style="border-radius: 50%;">
 </p>
 
 ## Repositorios
@@ -139,7 +139,7 @@ Recientemente interesado en:
 | 3   | Uploading                          | [accede](https://) |
 
 <p align="center">
-  <img src="https://www.grupoatrium.com/wp-content/uploads/2018/12/logo-grupo-atrium250.png"style="border-radius: 50%;">>
+  <img src="https://www.grupoatrium.com/wp-content/uploads/2018/12/logo-grupo-atrium250.png"style="border-radius: 50%;">
 </p>
 
 ## Repositorios
@@ -157,6 +157,6 @@ Recientemente interesado en:
 ¡Siempre estoy abierto a conectar con colegas apasionados por la tecnología y compartir ideas!
 
 <p align="center">
-  <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" alt="Hello Penguins"style="border-radius: 50%;">>
+  <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" alt="Hello Penguins"style="border-radius: 50%;">
 </p>
 

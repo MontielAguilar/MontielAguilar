@@ -2,7 +2,7 @@
 # ¡Hola, Soy Abel Montiel Aguilar! 👋
  
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp4748439.jpg" alt="Banner" style="border-radius: 50%;">
+  <img src="https://wallpapercave.com/wp/wp4748439.jpg" alt="Banner" style="border-radius: 90%;">
 </p>
 
 ## Sobre mí
@@ -127,7 +127,7 @@ Recientemente interesado en:
 | 30  | Uploading                                       | [accede](https://github.com/MontielAguilar/1-Real-State-Exercise) |
 
 <p align="center">
-  <img src="https://comparte-entity-photos.s3.us-east-2.amazonaws.com/39144702-7af9-45a6-8e18-3eb28648fa8a.png"style="border-radius: 50%;">
+  <img src="https://comparte-entity-photos.s3.us-east-2.amazonaws.com/39144702-7af9-45a6-8e18-3eb28648fa8a.png"style="border-radius: 10%;">
 </p>
 
 ## Repositorios

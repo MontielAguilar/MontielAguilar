@@ -116,7 +116,7 @@ Recientemente interesado en:
 | 19  | Temporal Series                                   | [accede](https://github.com/MontielAguilar/19-temporal-Series-Arima) |
 | 20  | Deep Image Classifier                            | [accede](https://github.com/MontielAguilar/20-Deep-Image-Classifier) |
 | 21  | NLP                                              | [accede](https://github.com/MontielAguilar/21-NLP) |
-| 22  | FINAL PROYECT                                       | [accede](https://github.com/MontielAguilar) |
+| 22  | FINAL PROYECT                                       | [accede](https://github.com/MontielAguilar/Final-proyect-4-Geek-Academy) |
 
 <p align="center">
   <img src="https://comparte-entity-photos.s3.us-east-2.amazonaws.com/39144702-7af9-45a6-8e18-3eb28648fa8a.png"style="border-radius: 10%;">

@@ -138,8 +138,8 @@ Recientemente interesado en:
 
 | #   | Proyectos Grupo Atrium: Master en Python                        | Enlace                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
-| 1   | Uploading                                       | [accede](https://) |
-| 2   | Uploading                               | [accede](https://) |
+| 27   | Python Basic                                      | [accede](https://github.com/MontielAguilar/27-python-basic) |
+| 28   | Python functions and Scope                               | [accede](https://) |
 | 3   | Uploading                          | [accede](https://) |
 
 ## Conéctate conmigo

@@ -127,9 +127,9 @@ Recientemente interesado en:
 | #   | Proyectos CoderHouse: Master Data Analytics y Ciencia de Datos                        | Enlace                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
 | 23   | PowerBI-Bank-Orange                                       | [accede](https://github.com/MontielAguilar/23-PowerBI-Bank-Orange) |
-| 2   | Uploading                               | [accede](https://) |
-| 3   | Uploading                          | [accede](https://) |
-
+| 24   | Uploading                               | [accede](https://) |
+| 25   | Uploading                          | [accede](https://) |
+| 26   | Uploading                          | [accede](https://) |
 <p align="center">
   <img src="https://www.grupoatrium.com/wp-content/uploads/2018/12/logo-grupo-atrium250.png"style="border-radius: 50%;">
 </p>
@@ -139,8 +139,11 @@ Recientemente interesado en:
 | #   | Proyectos Grupo Atrium: Master en Python                        | Enlace                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
 | 27   | Python Basic                                      | [accede](https://github.com/MontielAguilar/27-python-basic) |
-| 28   | Python functions and Scope                               | [accede](https://) |
-| 3   | Uploading                          | [accede](https://) |
+| 28   | Python functions and Scope                               | [accede](https://github.com/MontielAguilar/28-Python-functions-and-scope) |
+| 29   | Uploading                          | [accede](https://) |
+| 30   | Uploading                          | [accede](https://) |
+| 31   | Uploading                          | [accede](https://) |
+| 32   | Uploading                          | [accede](https://) |
 
 ## Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abel-montiel-aguilar-4578b7119/)

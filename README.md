@@ -140,7 +140,7 @@ Recientemente interesado en:
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
 | 27   | Python Basic                                      | [accede](https://github.com/MontielAguilar/27-python-basic) |
 | 28   | Python functions and Scope                               | [accede](https://github.com/MontielAguilar/28-Python-functions-and-scope) |
-| 29   | Uploading                          | [accede](https://github.com/MontielAguilar/29-OPP-Python) |
+| 29   | OPP Python                          | [accede](https://github.com/MontielAguilar/29-OPP-Python) |
 | 30   | Uploading                          | [accede](https://) |
 | 31   | Uploading                          | [accede](https://) |
 | 32   | Uploading                          | [accede](https://) |

@@ -5,6 +5,8 @@
   <img src="https://wallpapercave.com/wp/wp4748439.jpg" alt="Banner" style="border-radius: 90%;">
 </p>
 
+https://camo.githubusercontent.com/fcd000e9344df44c6d925af7b1d1fa26309ab2f14739b9e72f0d112940833bda/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f616e61636f6e64612f343441383333.
+
 ## Sobre mí
 Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbanístico e inmobiliario, decidí cambiar la toga por los dataframe y me convertí en un apasionado Data Science Junior.
 

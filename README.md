@@ -164,8 +164,8 @@ Recientemente interesado en:
 | 27   | Python Basic                                      | [accede](https://github.com/MontielAguilar/27-python-basic) |
 | 28   | Python functions and Scope                               | [accede](https://github.com/MontielAguilar/28-Python-functions-and-scope) |
 | 29   | OPP Python                          | [accede](https://github.com/MontielAguilar/29-OPP-Python) |
-| 30   | Vol 1 P.Exercises                          | [accede](https://github.com/MontielAguilar/30-Vol-1-Python-Exercises-Complementary) |
-| 31   | Uploading                          | [accede](https://) |
+| 30   | Vol 1 P.Exercises complementary                          | [accede](https://github.com/MontielAguilar/30-Vol-1-Python-Exercises-Complementary) |
+| 31   | Vol 2 P.Exercises complementary                          | [accede]([https://](https://github.com/MontielAguilar/31-Vol-2-Python-Exercises-Complementary)) |
 | 32   | Uploading                          | [accede](https://) |
 
 ## Conéctate conmigo

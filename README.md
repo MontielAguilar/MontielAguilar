@@ -74,34 +74,45 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" height="30" alt="Bandera de España">
 </a>
 
-## Sobre mí
-Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbanístico e inmobiliario, decidí cambiar la toga por los dataframe y me convertí en un apasionado Data Science Junior.
+## About me
+unior Data Scientist with an interesting and solid legal background.
+Proficiency in Spanish at a Legislative level.
+Proficiency in English at a B1 level (Increasing).
+Nature lover and interested in everything related to personal growth and development.
+Athlete, friendly, and open to whatever life offers.
 
-## Mis Conocimientos
-- Análisis de datos
+## My Skills
+- Data Analysis
 - Machine Learning
 - Deep Learning
 - Pandas
 - Numpy
-- Bases de datos: SQL
-- Herramientas de visualización: PowerBI
-- Bibliotecas de Machine Learning
-- Scikit-learn, TensorFlow
-- PyTorch (En desarrollo)
-- Procesamiento de Lenguaje Natural (NLP) y procesamiento de imágenes (En desarrolllo)
-- Herramientas de versionado: Git
-## Experiencia IT:
-### Actualmente
-- Teacher Assistant en Bootcamp 4Geek Academy 
-- Cientifico de datos en 2kids 
+- Databases: SQL
+- Visualization Tools: PowerBI
+- Machine Learning Libraries
+  - Scikit-learn
+  - TensorFlow
+- PyTorch (In development)
+- Natural Language Processing (NLP) and Image Processing (In development)
+- Version Control Tools: Git
 
-## Educación y Certificaciones
+  
+## Experiencie IT:
+
+### Currently
+-Teacher Assistant en Bootcamp 4Geeks Academy
+-In Project (IA R.State system)
+-In Project (Yoga and IA Harmony)
+-
+## Education and Certifications
+
 | 0  | Access my Titles                                    | [accede](https://github.com/MontielAguilar/0-Tittles "Access") |
-### Cursando actualmente con fin de seguir mejorando: 
-- Master experto en Python (Grupo Atrium)
-- Master en Ciencia de Datos I / II/ III (CoderHouse)
 
-### Ciencia de datos
+### Currently Pursuing for Continuous Improvement:
+- Expert Master in Python (Atrium Group)
+- Data Science Master I / II / III (CoderHouse)
+
+### Data Science
 - 📚 Curso Data Analyst (CoderHouse) (12-2023)
 - 📚 Base de datos avanzadas (12-2023)
 - 📚 Inteligencia artificial aplicada a la empresa (11-2023)
@@ -109,58 +120,58 @@ Inicialmente formado en aspectos jurídicos, con especialidad en derecho urbaní
 - 📚 Machine Learning Engineering (4Geeks Academy) (11-2023)
 - 📚 Big data y business intelligence (10-2023)
 - 
-### Formación jurídica y desarrrrollo personal
-- 🧘 Profesor de yoga (06-2022)
-- 🚺 Violencia de Género (06-2021)
-- 🖥️ Word (06-2021)
-- ⚖️ Procedimientos penales (03-2021)
-- 🤝 Mediación – Dº Inmobiliario (10-2018)
-- 🎓 Master universitario abogacía (02-2018)
-- 🏡 Master experto Dº urbanístico (12-2027)
-- 📜 Dº Inmobiliario Registral (09-2017)
-- 🎙️ Oratoria (03-2017)
-- 🛒 Curso de E-Commerce (04-2017)
-- 🌐 PNL y autoayuda (09-2017)
-- 🏡 Gestión de fincas y Comunidades de Propietarios (09-2017)
-- 👨‍⚖️ Graduado en Derecho (09-2016)
-- 🎓 Bachiller (10-2007)
+### Legal Education and Personal Development
+- 🧘 Yoga Instructor (06-2022)
+- 🚺 Gender Violence (06-2021)
+- 🖥️ Microsoft Word (06-2021)
+- ⚖️ Criminal Procedures (03-2021)
+- 🤝 Mediation – Real Estate Law (10-2018)
+- 🎓 Master's Degree in Law (02-2018)
+- 🏡 Expert Master in Urban Law (12-2027)
+- 📜 Real Estate Registry Law (09-2017)
+- 🎙️ Public Speaking (03-2017)
+- 🛒 E-Commerce Course (04-2017)
+- 🌐 NLP and Self-Help (09-2017)
+- 🏡 Property Management and Homeowners Associations (09-2017)
+- 👨‍⚖️ Bachelor's Degree in Law (09-2016)
+- 🎓 High School Diploma (10-2007)
 
-## Tecnologías en desarrollo
-- Python (enfocado en fortalecer mi dominio)
-- **Herramientas y Tecnologías Adicionales:**
-  - Herramientas de colaboración: Slack, Trello
-  - Git (control de versiones)
+## Technologies in Development
+- Python (focused on strengthening my expertise)
+- **Additional Tools and Technologies:**
+  - Collaboration Tools: Slack, Trello
+  - Git (version control)
   - Business Intelligence: PowerBI
-  - Virtualización: VirtualBox
+  - Virtualization: VirtualBox
   - Anaconda
   - Jupyter
-  - SQL y bases de datos relacionales (MySQL, PostgreSQL)
-  - Virtual Studio Code
+  - SQL and Relational Databases (MySQL, PostgreSQL)
+  - Visual Studio Code
   - Machine Learning: Scikit-learn, TensorFlow, PyTorch
-  - Procesamiento de Lenguaje Natural (NLP): NLTK, SpaCy
-  - -Big Data: Apache Spark
 
-- **Herramientas y Tecnologías en Desarrollo:**
+- **Tools and Technologies in Exploration:**
   - Testing: pytest, Selenium
   - NoSQL databases (MongoDB, Cassandra)
   - Cloud Computing: AWS, Google Cloud Platform (GCP), Microsoft Azure
   - Big Data: Apache Hadoop
+  - Big Data: Apache Spark
+  - Natural Language Processing (NLP): NLTK, SpaCy
 
-## Explorando
-Recientemente interesado en:
-- Inteligencia Artificial Explicable (XAI)
-- Aprendizaje Federado
-- Ética en la Ciencia de Datos
-- Procesamiento de Lenguaje Natural (PNL) Avanzado
-- Automatización del Ciclo de Vida de la Ciencia de Datos
-- Intersección entre Ciencia de Datos y Sostenibilidad
+## Exploring
+Recently interested in:
+- Explainable Artificial Intelligence (XAI)
+- Federated Learning
+- Ethics in Data Science
+- Advanced Natural Language Processing (NLP)
+- Data Science Lifecycle Automation
+- Intersection between Data Science and Sustainability
 
-## Repositorios
+## Repositories
 <p align="center">
   <img src="https://www.gitpod.io/images/education/4geeks/4geeks-logo.png"style="border-radius: 50%;">
 </p>
 
-## Repositorios
+## Repositories
 
 | #   | Proyecto 4 Geek Academy                           | Enlace                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
@@ -214,7 +225,7 @@ Recientemente interesado en:
 | 31   | Vol 2 P.Exercises complementary                          | [accede](https://github.com/MontielAguilar/31-Vol-2-Python-Exercises-Complementary) |
 | 32   | Uploading                          | [accede](https://) |
 
-## Conéctate conmigo
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abel-montiel-aguilar-4578b7119/)
 
 <p align="center">

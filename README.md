@@ -116,13 +116,13 @@ Athlete, friendly, and open to whatever life offers.
 - Data Science Master I / II / III (CoderHouse)
 
 ### Data Science
-- 📚 Curso Data Analyst (CoderHouse) (12-2023)
-- 📚 Base de datos avanzadas (12-2023)
-- 📚 Inteligencia artificial aplicada a la empresa (11-2023)
-- 📚 Aspectos básicos de datos (11-2023)
+- 📚 Data Analyst Course (CoderHouse) (12-2023)
+- 📚 Advanced Database (12-2023)
+- 📚 Applied Artificial Intelligence in Business (11-2023)
+- 📚 Basics of Data (11-2023)
 - 📚 Machine Learning Engineering (4Geeks Academy) (11-2023)
-- 📚 Big data y business intelligence (10-2023)
-- 
+- 📚 Big Data and Business Intelligence (10-2023)
+
 ### Legal Education and Personal Development
 - 🧘 Yoga Instructor (06-2022)
 - 🚺 Gender Violence (06-2021)

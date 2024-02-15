@@ -26,6 +26,9 @@
 </a><a href="https://camo.githubusercontent.com/9bbf269c8f3b7da7fe58eb56031dbe9d0a5f58bf1c47a48b7704c9e04737fa1d/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f74656e736f72666c6f772f464636463030" target="_blank" rel="noopener noreferrer">
   <img src="https://camo.githubusercontent.com/9bbf269c8f3b7da7fe58eb56031dbe9d0a5f58bf1c47a48b7704c9e04737fa1d/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f74656e736f72666c6f772f464636463030" height="30" alt="TensorFlow Logo">
 </a>
+<a href="https://w7.pngwing.com/pngs/288/313/png-transparent-zoom-meeting-logo-thumbnail.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://w7.pngwing.com/pngs/288/313/png-transparent-zoom-meeting-logo-thumbnail.png" height="30" alt="Zoom Meeting Logo">
+</a>
 
 
 ## Sobre mí

@@ -1,13 +1,13 @@
 
 # ¡Hola, Soy Abel Montiel Aguilar! 👋
 
-[![Alt Text](https://img.youtube.com/vi/DRLTak1dx6Q/0.jpg)](https://www.youtube.com/watch?v=DRLTak1dx6Q?autoplay=1)
 
 
  
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp4748439.jpg" alt="Banner" style="border-radius: 90%;">
+  <img src="https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/intro.png" alt="Banner" style="border-radius: 90%;">
 </p>
+
 
 <p align="center">
   <h2>Icon Skills</h2>

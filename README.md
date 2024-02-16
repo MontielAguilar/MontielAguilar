@@ -209,7 +209,7 @@ Recently interested in:
   <img src="https://comparte-entity-photos.s3.us-east-2.amazonaws.com/39144702-7af9-45a6-8e18-3eb28648fa8a.png" alt="Banner" style="border-radius: 90%;">
 </p>
 
-## Repositorios
+## Repositories
 
 | #   | Proyectos CoderHouse: Master Data Analytics y Ciencia de Datos                        | Enlace                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
@@ -221,7 +221,7 @@ Recently interested in:
   <img src="https://www.grupoatrium.com/wp-content/uploads/2018/12/logo-grupo-atrium250.png"style="border-radius: 50%;">
 </p>
 
-## Repositorios
+## Repositories
 
 | #   | Proyectos Grupo Atrium: Master en Python                        | Enlace                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |

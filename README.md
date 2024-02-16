@@ -206,7 +206,7 @@ Recently interested in:
 | 22  | FINAL PROYECT                                       | [accede](https://github.com/MontielAguilar/Final-proyect-4-Geek-Academy) |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/coderhouse.png" alt="Banner" style="border-radius: 90%;">
+  <img src="https://comparte-entity-photos.s3.us-east-2.amazonaws.com/39144702-7af9-45a6-8e18-3eb28648fa8a.png" alt="Banner" style="border-radius: 90%;">
 </p>
 
 ## Repositorios

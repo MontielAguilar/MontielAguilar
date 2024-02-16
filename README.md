@@ -78,7 +78,7 @@
 </a>
 
 ## About me
-unior Data Scientist with an interesting and solid legal background.
+Junior Data Scientist with an interesting and solid legal background.
 Proficiency in Spanish at a Legislative level.
 Proficiency in English at a B1 level (Increasing).
 Nature lover and interested in everything related to personal growth and development.

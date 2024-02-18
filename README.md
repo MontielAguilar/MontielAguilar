@@ -230,7 +230,7 @@ Recently interested in:
 | 29   | OPP Python                          | [accede](https://github.com/MontielAguilar/29-OPP-Python) |
 | 30   | Vol 1 P.Exercises complementary                          | [accede](https://github.com/MontielAguilar/30-Vol-1-Python-Exercises-Complementary) |
 | 31   | Vol 2 P.Exercises complementary                          | [accede](https://github.com/MontielAguilar/31-Vol-2-Python-Exercises-Complementary) |
-| 32   | Uploading                          | [accede](https://) |
+| 32   | Creating a new library                          | [accede](https://github.com/MontielAguilar/32_Creating_a-new_library) |
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abel-montiel-aguilar-4578b7119/)

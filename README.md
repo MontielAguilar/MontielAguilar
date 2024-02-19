@@ -74,13 +74,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Skype_logo_%282019%E2%80%93present%29.svg/991px-Skype_logo_%282019%E2%80%93present%29.svg.png" height="30" alt="Skype Logo">
 </a>
 
-## Idioms
-<a href="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" height="30" alt="Bandera">
-</a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" height="30" alt="Bandera de España">
-</a>
+
 
 ## About me
 Junior Data Scientist with an interesting and solid legal background.
@@ -104,6 +98,13 @@ Athlete, friendly, and open to whatever life offers.
 - Natural Language Processing (NLP) and Image Processing (In development)
 - Version Control Tools: Git
 
+## Idioms
+<a href="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" height="30" alt="Bandera">
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" height="30" alt="Bandera de España">
+</a>
   
 ## Experiencie IT:
 

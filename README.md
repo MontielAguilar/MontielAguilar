@@ -109,9 +109,9 @@ Athlete, friendly, and open to whatever life offers.
 ## Experiencie IT:
 
 ### Currently
--Teacher Assistant en Bootcamp 4Geeks Academy
--In Project (IA R.State system)
--In Project (Yoga and IA Harmony)
+- Teacher Assistant en Bootcamp 4Geeks Academy
+- In Project (IA R.State system)
+- In Project (Yoga and IA Harmony)
 
 ## Education and Certifications
 

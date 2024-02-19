@@ -112,7 +112,7 @@ Athlete, friendly, and open to whatever life offers.
 -Teacher Assistant en Bootcamp 4Geeks Academy
 -In Project (IA R.State system)
 -In Project (Yoga and IA Harmony)
--
+
 ## Education and Certifications
 
 | 0  | Access my Titles                                    | [accede](https://github.com/MontielAguilar/0-Tittles "Access") |

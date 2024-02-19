@@ -144,6 +144,9 @@ Athlete, friendly, and open to whatever life offers.
 - 👨‍⚖️ Bachelor's Degree in Law (09-2016)
 - 🎓 High School Diploma (10-2007)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=caca&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## Technologies in Development
 - Python (focused on strengthening my expertise)
 - **Additional Tools and Technologies:**

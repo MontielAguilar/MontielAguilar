@@ -115,8 +115,8 @@ Athlete, friendly, and open to whatever life offers.
 
 ## Education and Certifications
 
-| Access my Titles----->                                    | [Access](https://github.com/MontielAguilar/0-Tittles "Access") | <-----Access my Titles>     | 
-| Access my CV----->                                    | [Access](https://github.com/MontielAguilar/0_CV "Access") | <-----Access my CV>     | 
+- | Access my Titles----->                                    | [Access](https://github.com/MontielAguilar/0-Tittles "Access") | <-----Access my Titles>     | 
+- | Access my CV----->                                    | [Access](https://github.com/MontielAguilar/0_CV "Access") | <-----Access my CV>     | 
 
 ### Currently Pursuing for Continuous Improvement:
 - Expert Master in Python (Atrium Group)

@@ -240,6 +240,22 @@ Recently interested in:
 | 32   | Creating a new library                          | [accede](https://github.com/MontielAguilar/32_Creating_a-new_library) |
 
 <p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuVn0cUbu5Dj162T6ynZWE3J1bwqnDu6qkww5mD1ETGA&s" alt="Descripción de la imagen" style="border-radius: 90%;">
+</p>
+
+| #   | Python exercises for DS                       | Link                                                  |
+| --- | ---------------------------------------------    | -------------------------------------------------------- |
+| 40   | Uploading                                   | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 41   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 42   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 43   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 44   | Listas y tuplas                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 45   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 46   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 47   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 48   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 49   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+<p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:693/1*X465HGyHWV-pMzvxqM9xDQ.jpeg" alt="Descripción de la imagen">
 </p>
 

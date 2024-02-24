@@ -249,7 +249,7 @@ Recently interested in:
 | 41   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 42   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 43   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
-| 44   | Listas y tuplas                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 44   | Listas y tuplas                                      | [accede](https://github.com/MontielAguilar/44-listas-y-tuplas) |
 | 45   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 46   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 47   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |

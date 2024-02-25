@@ -1,4 +1,4 @@
--o|
+\-o|
 # ¡Hola, Soy Abel Montiel Aguilar! 👋
 <p align="center">
   <img src="https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/intro.png" alt="Banner" style="border-radius: 90%;">

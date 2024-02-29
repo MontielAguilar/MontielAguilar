@@ -124,28 +124,35 @@ Athlete, friendly, and open to whatever life offers.
 - Data Science Master I / II / III (CoderHouse)
 
 ## Data Science
-- 📚 Data Analyst Course (CoderHouse) (12-2023)
-- 📚 Advanced Database (12-2023)
-- 📚 Applied Artificial Intelligence in Business (11-2023)
-- 📚 Basics of Data (11-2023)
-- 📚 Machine Learning Engineering (4Geeks Academy) (11-2023)
-- 📚 Big Data and Business Intelligence (10-2023)
+| Courso                                             | Fecha       |
+|---------------------------------------------------|-------------|
+| 📚 Data Analyst Course (CoderHouse)               | 12-2023     |
+| 📚 Advanced Database                              | 12-2023     |
+| 📚 Applied Artificial Intelligence in Business    | 11-2023     |
+| 📚 Basics of Data                                 | 11-2023     |
+| 📚 Machine Learning Engineering (4Geeks Academy) | 11-2023     |
+| 📚 Big Data and Business Intelligence             | 10-2023     |
+
 
 ## Legal Education and Personal Development
-- 🧘 Yoga Instructor (06-2022)
-- 🚺 Gender Violence (06-2021)
-- 🖥️ Microsoft Word (06-2021)
-- ⚖️ Criminal Procedures (03-2021)
-- 🤝 Mediation – Real Estate Law (10-2018)
-- 🎓 Master's Degree in Law (02-2018)
-- 🏡 Expert Master in Urban Law (12-2027)
-- 📜 Real Estate Registry Law (09-2017)
-- 🎙️ Public Speaking (03-2017)
-- 🛒 E-Commerce Course (04-2017)
-- 🌐 NLP and Self-Help (09-2017)
-- 🏡 Property Management and Homeowners Associations (09-2017)
-- 👨‍⚖️ Bachelor's Degree in Law (09-2016)
-- 🎓 High School Diploma (10-2007)
+| Courso                                       | Fecha       |
+|---------------------------------------------|-------------|
+| 🧘 Yoga Instructor                          | 06-2022    |
+| 🚺 Gender Violence                          | 06-2021    |
+| 🖥️ Microsoft Word                           | 06-2021    |
+| ⚖️ Criminal Procedures                      | 03-2021    |
+| 🤝 Mediation – Real Estate Law              | 10-2018    |
+| 🎓 Master's Degree in Law                   | 02-2018    |
+| 🏡 Expert Master in Urban Law               | 12-2027    |
+| 🎓 High School Diploma                      | 10-2007    |
+| 📜 Real Estate Registry Law                 | 09-2017    |
+| 🏡 Property Management and Homeowners Associations | 09-2017 |
+| 🌐 NLP and Self-Help                        | 09-2017    |
+| 🛒 E-Commerce Course                        | 04-2017    |
+| 🎙️ Public Speaking                          | 03-2017    |
+| 👨‍⚖️ Bachelor's Degree in Law             | 09-2016    |
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=caca&theme=radical&no-frame=false&no-bg=true&margin-w=4)

@@ -124,7 +124,7 @@ Athlete, friendly, and open to whatever life offers.
 - Data Science Master I / II / III (CoderHouse)
 
 ## Data Science
-| Courso                                             | Fecha       |
+| Course                                             | Fecha       |
 |---------------------------------------------------|-------------|
 | 📚 Data Analyst Course (CoderHouse)               | 12-2023     |
 | 📚 Advanced Database                              | 12-2023     |
@@ -135,7 +135,7 @@ Athlete, friendly, and open to whatever life offers.
 
 
 ## Legal Education and Personal Development
-| Courso                                       | Fecha       |
+| Course                                       | Fecha       |
 |---------------------------------------------|-------------|
 | 🧘 Yoga Instructor                          | 06-2022    |
 | 🚺 Gender Violence                          | 06-2021    |

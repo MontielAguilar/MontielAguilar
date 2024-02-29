@@ -118,6 +118,13 @@ Athlete, friendly, and open to whatever life offers.
 - | Access my Titles----->                                    | [Access](https://github.com/MontielAguilar/0-Tittles "Access") | <-----Access my Titles>     | 
 - | Access my CV----->                                    | [Access](https://github.com/MontielAguilar/0_CV/blob/main/Abel%20Montiel%20Aguilar%20CV%202024%20ESPA%C3%91OL.pdf "Access") | <-----Access my CV>     | 
 
+
+-
+
+|                    |       Access my Titles       |                        |           Access my CV          |
+|:------------------:|:----------------------------:|:----------------------:|:-------------------------------:|
+|                    | [Access](https://github.com/MontielAguilar/0-Tittles "Access") |                        | [Access](https://github.com/MontielAguilar/0_CV/blob/main/Abel%20Montiel%20Aguilar%20CV%202024%20ESPA%C3%91OL.pdf "Access") |
+
 ### Currently Pursuing for Continuous Improvement:
 - Expert Master in Python (Atrium Group)
 - Data Science Master I / II / III (CoderHouse)

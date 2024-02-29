@@ -106,18 +106,14 @@ Athlete, friendly, and open to whatever life offers.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" height="30" alt="Bandera de España">
 </a>
   
-## Experiencie IT:
+# Experiencie IT:
 
-### Currently
+## Currently
 - Teacher Assistant en Bootcamp 4Geeks Academy
 - In Project (IA R.State system)
 - In Project (Yoga and IA Harmony)
 
 ## Education and Certifications
-
-- | Access my Titles----->                                    | [Access](https://github.com/MontielAguilar/0-Tittles "Access") | <-----Access my Titles>     | 
-- | Access my CV----->                                    | [Access](https://github.com/MontielAguilar/0_CV/blob/main/Abel%20Montiel%20Aguilar%20CV%202024%20ESPA%C3%91OL.pdf "Access") | <-----Access my CV>     | 
-
 
 -
 
@@ -125,11 +121,11 @@ Athlete, friendly, and open to whatever life offers.
 |:------------------:|:----------------------------:|:----------------------:|:-------------------------------:|
 |                    | [Access](https://github.com/MontielAguilar/0-Tittles "Access") |                        | [Access](https://github.com/MontielAguilar/0_CV/blob/main/Abel%20Montiel%20Aguilar%20CV%202024%20ESPA%C3%91OL.pdf "Access") |
 
-### Currently Pursuing for Continuous Improvement:
+## Currently Pursuing for Continuous Improvement:
 - Expert Master in Python (Atrium Group)
 - Data Science Master I / II / III (CoderHouse)
 
-### Data Science
+## Data Science
 - 📚 Data Analyst Course (CoderHouse) (12-2023)
 - 📚 Advanced Database (12-2023)
 - 📚 Applied Artificial Intelligence in Business (11-2023)
@@ -137,7 +133,7 @@ Athlete, friendly, and open to whatever life offers.
 - 📚 Machine Learning Engineering (4Geeks Academy) (11-2023)
 - 📚 Big Data and Business Intelligence (10-2023)
 
-### Legal Education and Personal Development
+## Legal Education and Personal Development
 - 🧘 Yoga Instructor (06-2022)
 - 🚺 Gender Violence (06-2021)
 - 🖥️ Microsoft Word (06-2021)

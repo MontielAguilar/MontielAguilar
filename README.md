@@ -110,8 +110,8 @@ Athlete, friendly, and open to whatever life offers.
 
 ## Currently
 - Teacher Assistant en Bootcamp 4Geeks Academy
-- In Project (IA R.State system)
-- In Project (Yoga and IA Harmony)
+- In Project (AI R.State system)
+- In Project (Yoga and AI Harmony)
 
 ## Education and Certifications
 

@@ -98,7 +98,7 @@ Athlete, friendly, and open to whatever life offers.
 - Natural Language Processing (NLP) and Image Processing (In development)
 - Version Control Tools: Git
 
-## Idioms
+## Idioms.
 <a href="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" height="30" alt="Bandera">
 </a>

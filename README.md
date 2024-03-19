@@ -257,7 +257,7 @@ Recently interested in:
 
 | #   | Python exercises for DS A2                     | Link                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
-| 40   | Uploading                                   | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 40   | Python bascio                                   | [accede](https://github.com/MontielAguilar/40-basic-python) |
 | 41   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 42   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 43   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |

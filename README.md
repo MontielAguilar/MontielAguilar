@@ -258,7 +258,7 @@ Recently interested in:
 | #   | Python exercises for DS A2                     | Link                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
 | 40   | Python basico                                   | [accede](https://github.com/MontielAguilar/40-basic-python) |
-| 41   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 41   | Operadores matematicos                                     | [accede](https://github.com/MontielAguilar/41-operadores-matematicos) |
 | 42   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 43   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 44   | Listas y tuplas                                      | [accede](https://github.com/MontielAguilar/44-listas-y-tuplas) |

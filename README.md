@@ -1,5 +1,5 @@
 
-# ¡Hi, I am Abel Montiel Aguilar! 👋.
+# ¡Hi, I am Abel Montiel Aguilar! 👋
 <p align="center">
   <img src="https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/intro.png" alt="Banner" style="border-radius: 90%;">
 </p>

@@ -260,7 +260,7 @@ Recently interested in:
 | 40   | Python basico                                   | [accede](https://github.com/MontielAguilar/40-basic-python) |
 | 41   | Serie temporal basica                                     | [accede](https://github.com/MontielAguilar/41-Serie-Temporal-Basico) |
 | 42   | Ejercicios Panda                                      | [accede](https://github.com/MontielAguilar/42-ejercicio-pandas) |
-| 43   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 43   | Ejercicios Numpy                                     | [accede](https://github.com/MontielAguilar/43-Ejercicios-Numpy) |
 | 44   | Listas y tuplas                                      | [accede](https://github.com/MontielAguilar/44-listas-y-tuplas) |
 | 45   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 46   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |

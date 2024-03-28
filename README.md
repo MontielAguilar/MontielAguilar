@@ -262,7 +262,7 @@ Recently interested in:
 | 42   | Ejercicios Panda                                      | [accede](https://github.com/MontielAguilar/42-ejercicio-pandas) |
 | 43   | Ejercicios Numpy                                     | [accede](https://github.com/MontielAguilar/43-Ejercicios-Numpy) |
 | 44   | Listas y tuplas                                      | [accede](https://github.com/MontielAguilar/44-listas-y-tuplas) |
-| 45   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 45   | Matplotlib                                     | [accede](https://github.com/MontielAguilar/45-Matplotlib) |
 | 46   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 47   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 48   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |

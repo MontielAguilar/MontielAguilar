@@ -229,7 +229,7 @@ Recently interested in:
 | #   | Proyectos CoderHouse: Master Data Analytics y Ciencia de Datos                        | Link                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
 | 23   | PowerBI-Bank-Orange                                       | [accede](https://github.com/MontielAguilar/23-PowerBI-Bank-Orange) |
-| 24   | Job-And-Data                               | [accede]([https://](https://github.com/MontielAguilar/24-job-and-data)) |
+| 24   | Job-And-Data                               | [accede] ([https://](https://github.com/MontielAguilar/24-job-and-data)) |
 | 25   | Uploading                          | [accede](https://) |
 | 26   | Uploading                          | [accede](https://) |
 

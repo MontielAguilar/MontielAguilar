@@ -82,7 +82,7 @@ Proficiency in Spanish at a Legislative level.
 Proficiency in English at a B1 level (Increasing).
 Nature lover and interested in everything related to personal growth and development.
 Athlete, friendly, and open to whatever life offers.
-.
+
 ## My Skills
 - Data Analysis
 - Machine Learning

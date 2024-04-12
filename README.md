@@ -126,6 +126,7 @@ Athlete, friendly, and open to whatever life offers.
 ## Data Science
 | Course                                             | Fecha       |
 |---------------------------------------------------|-------------|
+| 📚 Data Science Course (CoderHouse)               | 03-2024     |
 | 📚 Data Analyst Course (CoderHouse)               | 12-2023     |
 | 📚 Advanced Database                              | 12-2023     |
 | 📚 Applied Artificial Intelligence in Business    | 11-2023     |

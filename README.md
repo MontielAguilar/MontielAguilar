@@ -251,7 +251,7 @@ Recently interested in:
 | 32   | Creating a new library                          | [accede](https://github.com/MontielAguilar/32_Creating_a-new_library) |
 | 33   | Basic Pandas                          | [accede](https://github.com/MontielAguilar/33-Basic-Pandas) |
 | 34   | Basic DF: Titanic                          | [accede](https://github.com/MontielAguilar/33-Basic-Pandas) |
-
+| 35   | Uso de graficos                          | [accede](https://github.com/MontielAguilar/33-Basic-Pandas) |
 <p align="center">
   <img src="https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/a2.png" alt="Image 5" style="border-radius: 90%;">
 </p>

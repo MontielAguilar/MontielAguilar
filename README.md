@@ -252,6 +252,10 @@ Recently interested in:
 | 33   | Basic Pandas                          | [accede](https://github.com/MontielAguilar/33-Basic-Pandas) |
 | 34   | Basic DF: Titanic                          | [accede](https://github.com/MontielAguilar/33-Basic-Pandas) |
 | 35   | Uso de graficos                          | [accede](https://github.com/MontielAguilar/35-Uso-Graficos) |
+| 36   | Limpieza de datos                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 37   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 38   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 39   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 <p align="center">
   <img src="https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/a2.png" alt="Image 5" style="border-radius: 90%;">
 </p>

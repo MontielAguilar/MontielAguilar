@@ -253,7 +253,7 @@ Recently interested in:
 | 34   | Basic DF: Titanic                          | [accede](https://github.com/MontielAguilar/33-Basic-Pandas) |
 | 35   | Uso de graficos                          | [accede](https://github.com/MontielAguilar/35-Uso-Graficos) |
 | 36   | Limpieza de datos                                      | [accede](https://github.com/MontielAguilar/36-Limpieza-datos) |
-| 37   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 37   | Visualización espacial                                     | [accede](https://github.com/MontielAguilar/37-visualizacion-espacial) |
 | 38   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 39   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 <p align="center">

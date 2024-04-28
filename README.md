@@ -254,7 +254,7 @@ Recently interested in:
 | 35   | Uso de graficos                          | [accede](https://github.com/MontielAguilar/35-Uso-Graficos) |
 | 36   | Limpieza de datos                                      | [accede](https://github.com/MontielAguilar/36-Limpieza-datos) |
 | 37   | Visualización espacial                                     | [accede](https://github.com/MontielAguilar/37-visualizacion-espacial) |
-| 38   | Uploading                                      | [accede](https://github.com/MontielAguilar/38-analisis-bivariado) |
+| 38   | Analisis bivariado                                     | [accede](https://github.com/MontielAguilar/38-analisis-bivariado) |
 | 39   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 <p align="center">
   <img src="https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/a2.png" alt="Image 5" style="border-radius: 90%;">

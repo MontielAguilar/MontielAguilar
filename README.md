@@ -270,7 +270,7 @@ Recently interested in:
 | 44   | Listas y tuplas                                      | [accede](https://github.com/MontielAguilar/44-listas-y-tuplas) |
 | 45   | Matplotlib                                     | [accede](https://github.com/MontielAguilar/45-Matplotlib) |
 | 46   | Seaborn                                      | [accede](https://github.com/MontielAguilar/46-Seaborn) |
-| 47   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
+| 47   | Data Clean                                     | [accede](https://github.com/MontielAguilar/47-Data-clean) |
 | 48   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 49   | Uploading                                      | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |
 | 50   | Uploading                                     | [accede](https://github.com/MontielAguilar/Cheap-Cheats) |

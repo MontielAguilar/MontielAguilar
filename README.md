@@ -242,7 +242,7 @@ Recently interested in:
 
 | #   | Proyectos Grupo Atrium: Master en Python                        | Link                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
-| 25   | Data Acquisition                                      | [accede]( AÑADIR) |
+| 25   | Data Acquisition                                      | [accede]( https://github.com/MontielAguilar/25-Data-Acquisition) |
 | 27   | Python Basic                                      | [accede](https://github.com/MontielAguilar/27-python-basic) |
 | 28   | Python functions and Scope                               | [accede](https://github.com/MontielAguilar/28-Python-functions-and-scope) |
 | 29   | OPP Python                          | [accede](https://github.com/MontielAguilar/29-OPP-Python) |

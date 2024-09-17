@@ -237,12 +237,12 @@ Recently interested in:
   <img src="https://raw.githubusercontent.com/MontielAguilar/MontielAguilar/main/atrium%20group.png" alt="Atrium Group Logo" style="border-radius: 90%;">
 </p>
 
-
 ## Repositories
 
 | #   | Proyectos Grupo Atrium: Master en Python                        | Link                                                  |
 | --- | ---------------------------------------------    | -------------------------------------------------------- |
 | 25   | Data Acquisition                                      | [accede]( https://github.com/MontielAguilar/25-Data-Acquisition) |
+| 26   | Numpy Basic                                      | [accede]( https://github.com/MontielAguilar/26-Numpy-Basico) |
 | 27   | Python Basic                                      | [accede](https://github.com/MontielAguilar/27-python-basic) |
 | 28   | Python functions and Scope                               | [accede](https://github.com/MontielAguilar/28-Python-functions-and-scope) |
 | 29   | OPP Python                          | [accede](https://github.com/MontielAguilar/29-OPP-Python) |
